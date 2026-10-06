@@ -1,12 +1,8 @@
 # Playwright E2E
 
-## GitHub Actions + SonarCloud
-
-[![Build and Tests](https://github.com/ugioni/playwright-e2e/actions/workflows/node.js.yml/badge.svg?branch=master)](https://github.com/ugioni/playwright-e2e/actions/workflows/node.js.yml)
-
 </br>
 
-[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=ugioni_playwright-e2e&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=ugioni_playwright-e2e)
+[![Quality gate status](https://sonarcloud.io/api/project_badges/measure?project=JoaoMiguelRita_playwright-e2e&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=JoaoMiguelRita_playwright-e2e)
 
 ## Getting Started
 
